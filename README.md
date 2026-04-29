@@ -1,2 +1,95 @@
-# e-commerce-usa-dashboard
-Power BI dashboard analyzing US e-commerce business: sales, orders, and customer behavior | DAX, Power Query
+---
+
+\# 📊 E-Commerce Business Dashboard | Power BI
+
+\#\#\# Analysis of US e-commerce performance: sales, orders & customer behavior
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Formulas-0078D4?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square)
+![Period](https://img.shields.io/badge/Period-Oct%202020%20–%20Sep%202021-blueviolet?style=flat-square)
+
+---
+
+\#\# 📌 О проекте
+
+Дашборд предназначен для анализа деятельности условного e-commerce-бизнеса на американском рынке за период **октябрь 2020 — сентябрь 2021**.
+
+**Цель:** оценить финансовые результаты, эффективность обработки заказов, структуру продаж и выявить точки роста и проблемные зоны для принятия управленческих решений.
+
+---
+
+\#\# 📸 Дашборд
+
+**Лист 1 — Отчёт о продажах**
+
+![Sales Report](page1_sales.png)
+
+**Лист 2 — Отчёт о заказах и клиентах**
+
+![Orders Report](page2_orders.png)
+
+---
+
+\#\# 📊 Метрики
+
+| Метрика | Описание |
+|---------|----------|
+| Total Revenue | Выручка по завершённым заказам |
+| Orders | Общее количество заказов |
+| Completed Orders | Количество успешных заказов |
+| Clients | Уникальные клиенты |
+| Average Bill | Средний чек по завершённым заказам |
+| Average Revenue per Client | Средняя выручка на клиента |
+| Repetitive Clients | Клиенты с более чем одним заказом |
+
+---
+
+\#\# 💡 Ключевые находки
+
+\#\#\# Лист 1 — Продажи
+
+- **Резкий пик в декабре 2020** с последующим падением — признак сезонности или разовой акции
+- **Высокая концентрация выручки** в категории Mobiles & Tablets ($20M из $38M)
+- **Регион South** лидирует по выручке ($14M), потенциал остальных регионов не используется
+- **87% клиентов — повторные**, приток новых клиентов минимален
+- Средний чек нестабилен по месяцам и категориям
+
+\#\#\# Лист 2 — Заказы и клиенты
+
+- **42% заказов отменено** — серьёзные потери выручки и проблемы в операционном процессе
+- **Доминирует возрастная группа 55+** по количеству клиентов и успешных заказов
+- **37% оплат — cash on delivery**, что повышает риск отмен
+- Молодёжь 18–25 показывает **самый высокий средний чек** ($2,936 у женщин)
+
+---
+
+\#\# 🛠 Стек
+
+- **Power BI Desktop** — визуализация и дашборд
+- **DAX** — расчётные метрики
+- **Power Query** — трансформация данных
+
+---
+
+\#\# 📁 Структура репозитория
+
+```
+
+ecommerce-powerbi-dashboard/
+
+├── USA_Kan_Luiza.pbix       \# Файл Power BI
+
+├── page1\_sales.png      \# Скриншот листа 1
+
+├── page2\_orders.png     \# Скриншот листа 2
+
+└── README.md
+
+```
+
+\#\# 📬 Контакты
+
+**Кан Луиза** — номер телефона: +77751700111 · почта: kanluiza23@gmail.com
+
+---
