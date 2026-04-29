@@ -23,11 +23,11 @@
 
 **Лист 1 — Отчёт о продажах**
 
-![Sales Report](page1_sales.png)
+![Sales Report](e-commerce usa.png)
 
 **Лист 2 — Отчёт о заказах и клиентах**
 
-![Orders Report](page2_orders.png)
+![Orders Report](отчет по заказам и клиентам.png)
 
 ---
 
@@ -78,11 +78,11 @@
 
 ecommerce-powerbi-dashboard/
 
-├── USA_Kan_Luiza.pbix       \# Файл Power BI
+├── USA_Кан_Луиза.pbix       \# Файл Power BI
 
-├── page1\_sales.png      \# Скриншот листа 1
+├── e-commerce usa.png      \# Скриншот листа 1
 
-├── page2\_orders.png     \# Скриншот листа 2
+├── отчет по заказам и клиентам.png     \# Скриншот листа 2
 
 └── README.md
 
